@@ -5,7 +5,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=2&column=3">
 </p>
 
-# Profile Overview {align=center}
+# Profile Overview {style=text-align:center}
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">
     <br>

@@ -10,3 +10,6 @@
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevadutSB&theme=blue-green">
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevadutSB&show_icons=true&locale=en&layout=compact" alt="DevadutSB" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevadutSB&show_icons=true&locale=en" alt="DevadutSB" /></p>

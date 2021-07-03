@@ -3,7 +3,7 @@
 
 ## Trophys
 
-[![DevadutS's github trophy](https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=3&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![DevadutS's github trophy](https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 ## Profile Overview
 [![DevadutSB's github stats](https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages

@@ -5,7 +5,7 @@
 <div align="center"> 
       <img src="https://komarev.com/ghpvc/?username=8G6">
       <br>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;Wish+you+a+good+day+😇&center=true&size=35">
       <br>
       <h3>Ever wondored why I choose this user name <a href='https://github.com/8G6'>(8G6)</a></h3>
 </div>
@@ -37,9 +37,11 @@
       </ul>
       <br>
       So 876 
-      Perfect counting example
-      <br>
-      So it was the code of Jamaica and the country famous for the earliest Science & Technolog and is the home country of my favrote sports star Usain St Leo Bolt
+      <div aligin='center'>
+            Perfect counting example
+            <br>
+            So it was the code of Jamaica and the country famous for the earliest Science & Technolog and is the home country of my favrote sports star Usain St Leo Bolt
+      </div>
 </div>
  
 <div align="center"> 

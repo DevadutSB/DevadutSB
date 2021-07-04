@@ -37,7 +37,7 @@
       </ul>
       <br>
       So 876 
-      <div aligin='center'>
+      <div align='center'>
             Perfect counting example
             <br>
             So it was the code of Jamaica and the country famous for the earliest Science & Technolog and is the home country of my favrote sports star Usain St Leo Bolt

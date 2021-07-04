@@ -30,14 +30,17 @@
 <div align="center"> 
       <h3>I also like small usernames so this user name is perfect for me</h3>
       <h3>Other Speciality of this user name</h3>
-      <ul>
-            <li> 8 : Octa </li>
-            <li> G : English Alphabet at position 7 </li>
-            <li> 6 : Number at position 6 </li>
-      </ul>
-      So 876 
-      Perfect counting example
-      So it was the code of Jamaica and the country famous for the earliest Science & Technology😁
+      <div aligin='left'>
+            <ul>
+                  <li> 8 : Octa </li>
+                  <li> G : English Alphabet at position 7 </li>
+                  <li> 6 : Number at position 6 </li>
+            </ul>
+            So 876 
+            Perfect counting example
+            So it was the code of Jamaica and the country famous for the earliest Science & Technology😁
+      </div>
+      
       <br>
       <h2 align="center">Trophys</h2>
       <img src="https://github-profile-trophy.vercel.app/?username=8G6&theme=discord&&row=2&column=3">

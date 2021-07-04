@@ -1,6 +1,20 @@
 
 
+<style>
+      h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
 
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+</style>
 
 <div align="center"> 
       <img src="https://komarev.com/ghpvc/?username=8G6">

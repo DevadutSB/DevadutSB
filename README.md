@@ -25,7 +25,7 @@
       }
       print(name_decoded_cap,name_decoded_small)
       //Output : DSB dsb
-      //Output is given for thoose who are too lazy to copy paste this code and run it 
+      //Output is given for those who are too lazy to copy paste this code and run it 
       // DSB / dsb  => Devadut S Balan / devadut s balan
  ```
  
@@ -39,9 +39,9 @@
       </ul>
       <h3 align='center'>So 876 has 3 reasons to be my favorites</h3> 
       <ul>
-             <li>Perfect counting example </li>
-             <li>Code of Jamaica the , Country famous for the earliest Science & Technolog</li>
-             <li>Jamaica country of my favrote sports star Usain St Leo Bolt</li>
+             <li>Perfect ***Counting Example*** </li>
+             <li>Code of ***Jamaica*** the , Country famous for the earliest Science & Technolog 🔭🖥️</li>
+             <li>Jamaica country of my favrote sports star ***Usain St Leo Bolt*** 🏃🏿 </li>
       </ul>
       
 </div>

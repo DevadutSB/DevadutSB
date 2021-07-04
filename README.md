@@ -35,12 +35,13 @@
              <li>G : English Alphabet at position 7 </li>
              <li>6 : Number at position 6 </li>
       </ul>
-      <ul>
+      <h3 align='center'>So 876 <h3> 
+      <ul align="right">
              <li>Perfect counting example </li>
              <li>Code of Jamaica the , Country famous for the earliest Science & Technolog</li>
              <li>Jamaica country of my favrote sports star Usain St Leo Bolt</li>
       </ul>
-      <h3 align='center'>So 876 <h3> 
+      
 </div>
             
 <div align="center"> 

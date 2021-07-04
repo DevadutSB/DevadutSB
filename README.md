@@ -27,23 +27,24 @@
       // DSB / dsb  => Devadut S Balan / devadut s balan
  ```
  
-<div align="center"> 
+<div align="left"> 
       <h3>I also like small usernames so this user name is perfect for me</h3>
       <h3>Other Speciality of this user name</h3>
-             8 : Octa 
-             <br>
-             G : English Alphabet at position 7 
-             <br>
-             6 : Number at position 6 
-             <br>
-             So 876 
-             <br>
-             Perfect counting example
-             <br>
-             So it was the code of Jamaica and the country famous for the earliest Science & Technology😁
-      
-      <br>
-      <h2 align="center">Trophys</h2>
+       8 : Octa 
+       <br>
+       G : English Alphabet at position 7 
+       <br>
+       6 : Number at position 6 
+       <br>
+       So 876 
+       <br>
+       Perfect counting example
+       <br>
+       So it was the code of Jamaica and the country famous for the earliest Science & Technolog and is the home country of my favrote sports star Usain St Leo Bolt
+</div>
+ 
+<div align="center"> 
+      <h2>Trophys</h2>
       <img src="https://github-profile-trophy.vercel.app/?username=8G6&theme=discord&&row=2&column=3">
       <h2 align="center">Profile Overview</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=8G6&theme=blue-green">

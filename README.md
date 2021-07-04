@@ -4,19 +4,11 @@
    <br>
    <img src="https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=2&column=3">
 </p>
-```js
-ord=(a)=>a.charCodeAt(0)
-chr=(a)=>String.fromCharCode(a)
-print=(...a)=>console.log(...a)
-name_encoded='8G6'
-name_decoded_cap=''
-name_decoded_small=''
-for(i=0;i<name_encoded.length;i++){
-    name_decoded_cap   += chr(ord(name_encoded[i])+12)
-    name_decoded_small += chr(ord(name_encoded[i])+44)
-}
-print(name_decoded_cap,name_decoded_small)
-```
+
+ ```js
+   const myvar = "hello"
+   module.exports.response = response = ()=>{mycode here}
+    ```
 <h2 align="center">Profile Overview</h2>
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">

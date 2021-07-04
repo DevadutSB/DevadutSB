@@ -36,7 +36,7 @@
              <li>G : English Alphabet at position 7 </li>
              <li>6 : Number at position 6 </li>
       </ul>
-      <h3 align='center'>So 876 has 3 reasons to be my favorites</h3> 
+      <h3 align='center'>So 876 has 3 reasons to be my favorite</h3> 
       <ul>
              <li>Perfect <span style='font-weight:bold;'>Counting Example</span> </li>
              <li>Code of <span style='font-weight:bold;'>Jamaica</span> the , Country famous for the earliest Science & Technolog 🔭🖥️</li>

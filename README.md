@@ -1,4 +1,4 @@
-<h1 align="center">Devadut S Balan</h1>
+<h1 align="center">Devadut S Balan  <img src="https://komarev.com/ghpvc/?username=DevadutSB"> </h1>
 <h3 align="center">Ever wondored why I choose this user name</h3>
 
  ```js
@@ -19,20 +19,11 @@
  ```
  
  <h4 align="center" >I also like small user name so this user name is perfect for me</h4>
-<p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=DevadutSB">
-   <br>
+<div align="center"> 
    <img src="https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=2&column=3">
-</p>
-
-
-<h2 align="center">Profile Overview</h2>
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevadutSB&theme=blue-green">
-</p>
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevadutSB&theme=highcontrast">
-</p>
+   <h2 align="center">Profile Overview</h2>
+   <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">
+   <br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevadutSB&theme=blue-green">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevadutSB&theme=highcontrast">
+</div>

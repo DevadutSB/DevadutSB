@@ -3,7 +3,7 @@
 
 
 <div align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=DevadutSB">
+      <img src="https://komarev.com/ghpvc/?username=8G6">
       <br>
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;!&center=true&size=30">
       <br>
@@ -29,11 +29,11 @@
 <div align="center"> 
       <h4>I also like small user name so this user name is perfect for me</h4>
       <h2 align="center">Trophys</h2>
-      <img src="https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=2&column=3">
+      <img src="https://github-profile-trophy.vercel.app/?username=8G6&theme=discord&&row=2&column=3">
       <h2 align="center">Profile Overview</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevadutSB&theme=blue-green">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=8G6&theme=blue-green">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevadutSB&theme=highcontrast"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8G6&theme=highcontrast"> 
       <h2>
  </div>

@@ -35,15 +35,14 @@
              <li>G : English Alphabet at position 7 </li>
              <li>6 : Number at position 6 </li>
       </ul>
-      <br>
-      So 876 
-      <div align='center'>
-            Perfect counting example
-            <br>
-            So it was the code of Jamaica and the country famous for the earliest Science & Technolog and is the home country of my favrote sports star Usain St Leo Bolt
-      </div>
+      <ul>
+             <li>Perfect counting example </li>
+             <li>Code of Jamaica the , Country famous for the earliest Science & Technolog</li>
+             <li>Jamaica country of my favrote sports star Usain St Leo Bolt</li>
+      </ul>
+      <h3 align='center'>So 876 <h3> 
 </div>
- 
+            
 <div align="center"> 
       <h2>Trophys</h2>
       <img src="https://github-profile-trophy.vercel.app/?username=8G6&theme=discord&&row=2&column=3">

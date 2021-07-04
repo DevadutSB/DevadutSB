@@ -23,7 +23,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=DevadutSB&theme=discord&&row=2&column=3">
    <h2 align="center">Profile Overview</h2>
    <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">
-   <br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevadutSB&theme=blue-green">
+   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevadutSB&theme=highcontrast">
 </div>

@@ -60,9 +60,9 @@
       </ul>
       <h3 align='center'>So 876 has 3 reasons to be my favorites</h3> 
       <ul>
-            <li>Perfect <span class="bold">Counting Example</span> </li>
-             <li>Code of <span class="bold">Jamaica</span> the , Country famous for the earliest Science & Technolog 🔭🖥️</li>
-             <li>Jamaica country of my favrote sports star <span class="bold">Usain St Leo Bolt</span> 🏃🏿 </li>
+             <li>Perfect <span style='font-weight:bold;'>Counting Example</span> </li>
+             <li>Code of <span style='font-weight:bold;'>Jamaica</span> the , Country famous for the earliest Science & Technolog 🔭🖥️</li>
+             <li>Jamaica country of my favrote sports star <span style='font-weight:bold;'>Usain St Leo Bolt</span> 🏃🏿 </li>
       </ul>
       
 </div>

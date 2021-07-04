@@ -3,7 +3,10 @@
 
 
 <div align="center"> 
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;!&center=true&size=30"><img src="https://komarev.com/ghpvc/?      username=DevadutSB">
+      <img src="https://komarev.com/ghpvc/?username=DevadutSB">
+      <br>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;!&center=true&size=30">
+      <br>
       <h3>Ever wondored why I choose this user name <a href='https://github.com/8G6'>(8G6)</a></h3>
 </div>
   ```js

@@ -1,5 +1,6 @@
 <h1 align="center">Devadut S Balan</h1>
 <h3 align="center">Ever wondored why I choose this user name</h3>
+
  ```js
       ord=(a)=>a.charCodeAt(0)
       chr=(a)=>String.fromCharCode(a)
@@ -13,6 +14,7 @@
       }
       print(name_decoded_cap,name_decoded_small)
  ```
+ 
  <h4 align="center" >I also like small user name so this user name is perfect for me</h4>
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=DevadutSB">

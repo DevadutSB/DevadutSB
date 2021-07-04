@@ -5,7 +5,9 @@
 <div align="center"> 
       <img src="https://komarev.com/ghpvc/?username=8G6">
       <br>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;Wish+you+a+good+day+😇&center=true&size=35">
+      <h1 align='center'>
+            <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;I+am+Devadut+S+Balan+....;Wish+you+a+good+day+😇&center=true&size=26"    
+       </h1>
       <br>
       <h3>Ever wondored why I choose this user name <a href='https://github.com/8G6'>(8G6)</a></h3>
 </div>
@@ -35,7 +37,7 @@
              <li>G : English Alphabet at position 7 </li>
              <li>6 : Number at position 6 </li>
       </ul>
-      <h3 align='center'>So 876 , has 3 reasons to be my favorites<h3> 
+      <h3 align='center'>So 876 has 3 reasons to be my favorites</h3> 
       <ul>
              <li>Perfect counting example </li>
              <li>Code of Jamaica the , Country famous for the earliest Science & Technolog</li>

@@ -13,6 +13,9 @@
           name_decoded_small += chr(ord(name_encoded[i])+44)
       }
       print(name_decoded_cap,name_decoded_small)
+      //Output : DSB dsb
+      //Output is given for thoose who are too lazy to copy paste this code and run it 
+      // DSB / dsb  => Devadut S Balan / devadut s balan
  ```
  
  <h4 align="center" >I also like small user name so this user name is perfect for me</h4>

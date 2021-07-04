@@ -6,9 +6,18 @@
 </p>
 
  ```js
-   const myvar = "hello"
-   module.exports.response = response = ()=>{mycode here}
-    ```
+      ord=(a)=>a.charCodeAt(0)
+      chr=(a)=>String.fromCharCode(a)
+      print=(...a)=>console.log(...a)
+      name_encoded='8G6'
+      name_decoded_cap=''
+      name_decoded_small=''
+      for(i=0;i<name_encoded.length;i++){
+          name_decoded_cap   += chr(ord(name_encoded[i])+12)
+          name_decoded_small += chr(ord(name_encoded[i])+44)
+      }
+      print(name_decoded_cap,name_decoded_small)
+ ```
 <h2 align="center">Profile Overview</h2>
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=DevadutSB&theme=blue-green">
